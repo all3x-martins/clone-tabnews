@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Não tenha medo de recomeçar. Cada novo começo é uma oportunidade disfarçada de desafio.</h1>
+    return <h1>Não importa quantas vezes você caia, o importante é se levantar e tentar de novo.</h1>
 
 }
 
